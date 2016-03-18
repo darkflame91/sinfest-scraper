@@ -1,7 +1,7 @@
 import requests
 import datetime
 start = datetime.date(2000,1,17)
-current = datetime.date(2014,8,1)
+current = start
 special = datetime.date(2012,8,18)
 givendir = raw_input("Enter the path where the images should be stored!\n")
 i = 0
