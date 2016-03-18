@@ -1,5 +1,5 @@
 # sinfest-scraper
-Downloads all the comic images from Sinfest for offline reading.
+Downloads all the comic images from Sinfest [sinfest.net] for offline reading.
 
 This script has not been under version control(till now!)
 
